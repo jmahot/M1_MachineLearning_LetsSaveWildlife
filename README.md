@@ -1,6 +1,6 @@
-# M1_MachineLearning_LetsSaveWildlife
+# Let's Save Wildlife
 A project using machine learning with deep learning to help detecting injured animals, let's save wildlife !
-EFREI 2025
+EFREI 2025 - Machine Learning Project (M1)
 
 # Group :
 - Dany COSTA
